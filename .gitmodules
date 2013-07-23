@@ -1,0 +1,3 @@
+[submodule "GWT-Penetration-Testing-Toolset"]
+	path = GWT-Penetration-Testing-Toolset
+	url = git@github.com:Meatballs1/GWT-Penetration-Testing-Toolset.git
